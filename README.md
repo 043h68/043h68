@@ -10,10 +10,7 @@
   <img align="left" alt="Danny's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=Danny&color=blueviolet">
-<br />
-<br />
+<br/>
 
 Hi there, I'm **Danny Ramírez**, a **Software Architect Jr** 🚀 from CDMX, México.
 
