@@ -1,18 +1,47 @@
-### Hi there 👋
+<h3 title="name"> Hey 👋, I'm Danny Ramírez!</h3>
 
+<a href="https://www.linkedin.com/in/null/">
+  <img align="left" alt="Danny's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/null/">
+  <img align="left" alt="Danny's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/null">
+  <img align="left" alt="Danny's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Danny&color=blueviolet">
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi there, I'm **Danny Ramírez**, a **Software Architect Jr** 🚀 from CDMX, México.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently working as a Solutions Architect at Sura.
+- 🌱 I’m currently exploring Apache Kafka with a great interest in scalable and real-time architectures. 
+- 🤔 My interests are to continue growing my career as a software architect
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [043h68@gmail.com](mailto:043h68@gmail.com).
 
 <!--
-**043h68/043h68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
 
 -->
+
+⭐️ From [Danny](https://github.com/043h68)
+
