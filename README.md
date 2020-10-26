@@ -20,7 +20,7 @@ Hi there, I'm **Danny Ramírez**, a **Software Architect** 🚀 from CDMX, Méxi
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Solutions Architect at Sura.
-- 🌱 I’m currently exploring Apache Kafka with a great interest in scalable and real-time architectures. 
+- 🌱 I am currently exploring Apache Kafka with a keen interest in real-time and distributed architectures. 
 - 🤔 My interests are to continue growing my career as a software architect
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [043h68@gmail.com](mailto:043h68@gmail.com).
