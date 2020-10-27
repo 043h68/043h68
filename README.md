@@ -4,7 +4,7 @@ Hi there, I'm **Danny Ramírez**, a **Software Architect** 🚀 from CDMX, Méxi
 
 
 
-<img align="right" alt="GIF" src="https://spin.atomicobject.com/wp-content/uploads/Architecture1.jpg" />
+<img align="right" alt="GIF" src="https://i.stack.imgur.com/lGw7P.png" width="200" height="200" />
 
 **About Me!**
 
