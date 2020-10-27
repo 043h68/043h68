@@ -3,8 +3,21 @@
 Hi there, I'm **Danny Ramírez**, a **Software Architect** 🚀 from CDMX, México.
 
 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently working as a Solutions Architect.
+- 🌱 I am currently exploring Apache Kafka with a keen interest in real-time and distributed architectures. 
+- 🤔 My interests are to continue growing my career as a software architect
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [043h68@gmail.com](mailto:043h68@gmail.com).
+
+
+
 <a href="https://www.linkedin.com/in/null/">
-  <img align="left" alt="Danny's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Danny's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/null/">
   <img align="left" alt="Danny's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -12,18 +25,6 @@ Hi there, I'm **Danny Ramírez**, a **Software Architect** 🚀 from CDMX, Méxi
 <a href="https://www.facebook.com/null">
   <img align="left" alt="Danny's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
-<br/>
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**About Me!**
-
-- 👨🏽‍💻 I’m currently working as a Solutions Architect at Sura.
-- 🌱 I am currently exploring Apache Kafka with a keen interest in real-time and distributed architectures. 
-- 🤔 My interests are to continue growing my career as a software architect
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [043h68@gmail.com](mailto:043h68@gmail.com).
 
 <!--
 **Languages and Tools:**  
