@@ -1,6 +1,6 @@
 <h3 title="name"> Hey 👋, I'm Danny Ramírez!</h3>
 
-Hi there, I'm **Danny Ramírez**, a **Software Architect** 🚀 from CDMX, México.
+I'm a **Software Architect** 🚀 from CDMX, México.
 
 
 
