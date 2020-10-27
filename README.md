@@ -12,7 +12,7 @@ I'm a **Software Architect** 🚀 from CDMX, Mexico.
 - 🌱 I am currently exploring Apache Kafka with a keen interest in real-time and distributed architectures. 
 - 🤔 My interests are to continue growing my career as a software architect
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [043h68@gmail.com](mailto:043h68@gmail.com).
+- 📫 Email me at [danielhernandez12@acm.org](mailto:danielhernandez12@acm.org).
 
 </br>
 
