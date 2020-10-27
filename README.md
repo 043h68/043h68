@@ -26,6 +26,5 @@ I'm a **Software Architect** 🚀 from CDMX, México.
   <img align="left" alt="Danny's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-</br>
-⭐️ From [Danny](https://github.com/043h68)
+⭐️
 
